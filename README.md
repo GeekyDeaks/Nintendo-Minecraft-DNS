@@ -6,7 +6,7 @@ Simple DNS proxy to allow accessing private servers on the Nintendo Switch
 
 1. clone the repo
 
-        git clone https://github.com/GeekyDeaks/Nintendo-Minecraft-DNS
+        git clone https://github.com/GeekyDeaks/Nintendo-Minecraft-DNS.git
 
 2. build the image
 
